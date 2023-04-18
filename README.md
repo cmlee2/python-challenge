@@ -2,9 +2,10 @@
 Module 3  
   
 PyBank  
-The purpose of this project was to create a Python script that would pull and analyze data from a csv that mirrored the financial records of a mock company. This included tracking:  
-            - The total number of months included in the data set  
-            - The net total amount of Profit/Losses over the entire period  
+The purpose of this project was to create a Python script that would pull and analyze data from a csv that mirrored the financial records of a mock company. This included tracking: 
+   
+        - The total number of months included in the data set 
+        - The net total amount of Profit/Losses over the entire period  
         - The average change in Profit/Losses over the entire period  
         - The month with the greatest increase in profits and its value  
         - The month with the greatest decrease in profits and its value  
@@ -20,6 +21,7 @@ Assistance was gathered from Pythonhow on information on how to use round functi
   
 PyPoll  
 The purpose of this project was to create a Python script that would count and track votes for candidates in an election. The script tracks:  
+  
         - The total number of votes  
         - A list of candidates who received votes  
         - the total number of votes each candidates received  
